@@ -1,0 +1,44 @@
+[
+    {
+     "Name": "Twitch" ,
+     "CreationDate": "6/2011",
+     "URL": "https://www.twitch.tv/",
+     "CurrentCEO": "Daniel Joseph Clancy",
+     "Revenue": "$1.96 billion"
+    },
+    {
+        "Name": "Spotify" ,
+        "CreationDate": "10/2008",
+        "URL": "https://open.spotify.com/",
+        "CurrentCEO": "Daniel Ek",
+        "Revenue": "$12.31 billion"
+       },
+       {
+        "Name": "Disney+" ,
+        "CreationDate": "11/2019",
+        "URL": "https://www.disneyplus.com",
+        "CurrentCEO": "Robert Iger",
+        "Revenue": "$8.4 billion"
+       },
+       {
+        "Name": "Netflix" ,
+        "CreationDate": "8/1998",
+        "URL": "https://www.netflix.com",
+        "CurrentCEO": "Reed Hastings",
+        "Revenue": "$39.001 billion"
+       },
+       {
+        "Name": "Prime Video" ,
+        "CreationDate": "9/2006",
+        "URL": "https://www.primevideo.com/",
+        "CurrentCEO": "Jeff Bezos",
+        "Revenue": "$13.5 billion"
+       },
+       {
+        "Name": "Apple Music" ,
+        "CreationDate": "6/2015",
+        "URL": "https://music.apple.com/pl/new?l=pl",
+        "CurrentCEO": "Tim Cook",
+        "Revenue": "$9.2 billion"
+       }
+]
