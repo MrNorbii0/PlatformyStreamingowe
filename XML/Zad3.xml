@@ -1,6 +1,50 @@
 <platformyStreaminigowe>
-    <Twitch popularnosc="bardzo wysoka" sredniaIloscWIdzow="240 mln"></Twitch>
-    <Kick najpopularnijeszyStreamer="Westcol" rokZalozenia="2022"></Kick>
-    <YouTube maxBitrate="85 Mbps" iloscStreamerow="ok. 60 mln"></YouTube>
-    <Spotify kategoria="muzyka" iloscUzytkownikow="678 mln"></Spotify>
+    <Twitch>
+        <daneTechniczne maxBitrate="12 Mbps" maxRozdzielczosc="4k"></daneTechniczne>
+        <uzytkownicy popularnosc="wysoka" sredniaUzytkownikow="60 mln"></uzytkownicy>
+        <tresci kategoria="na zywo" mozliwoscVOD="tak"></tresci>
+        <informacjeDodatkowe wymaganaOplata="tak" ocenaUzytkownikow="dobra"></informacjeDodatkowe>
+    </Twitch>
+
+    <YouTube>
+        <daneTechniczne maxBitrate="16 Mbps" maxRozdzielczosc="8k"></daneTechniczne>
+        <uzytkownicy popularnosc="bardzo wysoka" sredniaUzytkownikow="200 mln"></uzytkownicy>
+        <tresci kategoria="filmy" mozliwoscVOD="tak"></tresci>
+        <informacjeDodatkowe wymaganaOplata="nie" ocenaUzytkownikow="bardzo dobra"></informacjeDodatkowe>
+    </YouTube>
+
+    <Kick>
+        <daneTechniczne maxBitrate="8 Mbps" maxRozdzielczosc="2k"></daneTechniczne>
+        <uzytkownicy popularnosc="niska" sredniaUzytkownikow="10 mln"></uzytkownicy>
+        <tresci kategoria="na zywo" mozliwoscVOD="tak"></tresci>
+        <informacjeDodatkowe wymaganaOplata="nie" ocenaUzytkownikow="dobra"></informacjeDodatkowe>
+    </Kick>
+
+    <Spotify>
+        <daneTechniczne maxBitrate="4 Mbps" maxRozdzielczosc="FHD"></daneTechniczne>
+        <uzytkownicy popularnosc="wysoka" sredniaUzytkownikow="100 mln"></uzytkownicy>
+        <tresci kategoria="muzyka" mozliwoscVOD="tak"></tresci>
+        <informacjeDodatkowe wymaganaOplata="nie" ocenaUzytkownikow="bardzo dobra"></informacjeDodatkowe>
+    </Spotify>
+
+    <Disney>
+        <daneTechniczne maxBitrate="24 Mbps" maxRozdzielczosc="4k"></daneTechniczne>
+        <uzytkownicy popularnosc="srednia" sredniaUzytkownikow="80 mln"></uzytkownicy>
+        <tresci kategoria="filmy/seriale" mozliwoscVOD="tak"></tresci>
+        <informacjeDodatkowe wymaganaOplata="tak" ocenaUzytkownikow="srednia"></informacjeDodatkowe>
+    </Disney>
+
+    <Netflix>
+        <daneTechniczne maxBitrate="60 Mbps" maxRozdzielczosc="8k"></daneTechniczne>
+        <uzytkownicy popularnosc="wysoka" sredniaUzytkownikow="100 mln"></uzytkownicy>
+        <tresci kategoria="filmy/seriale" mozliwoscVOD="tak"></tresci>
+        <informacjeDodatkowe wymaganaOplata="tak" ocenaUzytkownikow="srednia"></informacjeDodatkowe>
+    </Netflix>
+
+    <HBO>
+        <daneTechniczne maxBitrate="10 Mbps" maxRozdzielczosc="6k"></daneTechniczne>
+        <uzytkownicy popularnosc="bardzo wysoka" sredniaUzytkownikow="180 mln"></uzytkownicy>
+        <tresci kategoria="filmy/seriale" mozliwoscVOD="tak"></tresci>
+        <informacjeDodatkowe wymaganaOplata="tak" ocenaUzytkownikow="bardzo dobra"></informacjeDodatkowe>
+    </HBO>
 </platformyStreaminigowe>
