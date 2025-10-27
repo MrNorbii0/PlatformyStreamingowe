@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platformy>
+<rodzaj>
+    <nazwa> Netflix</nazwa>
+    <siedziba>Los Gatos</siedziba>
+    <kraj>USA</kraj>
+    <cena>33zł</cena>
+</rodzaj>
+<rodzaj>
+    <nazwa> HBO max</nazwa>
+    <siedziba>Kalifornia</siedziba>
+    <kraj>USA</kraj>
+    <cena>35zł</cena>
+</rodzaj>
+<rodzaj>
+    <nazwa>Disney+</nazwa>
+    <siedziba>Kalifornia</siedziba>
+    <kraj>USA</kraj>
+    <cena>40zł</cena>
+</rodzaj>
+<rodzaj>
+    <nazwa>Canal+</nazwa>
+    <siedziba>Warszwa</siedziba>
+    <kraj>Polska</kraj>
+    <cena>34zł</cena>
+</rodzaj>
+<rodzaj>
+    <nazwa>Amazon Prime Video</nazwa>
+    <siedziba>Kalifornia</siedziba>
+    <kraj>USA</kraj>
+    <cena>25zł</cena>
+</rodzaj>
+<rodzaj>
+    <nazwa>Shy show time</nazwa>
+    <siedziba>Kalifornia</siedziba>
+    <kraj>USA</kraj>
+    <cena>32zł</cena>
+</rodzaj>
+
+</platformy>
