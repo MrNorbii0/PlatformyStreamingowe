@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <platformy>
 <rodzaj>
     <nazwa> Netflix</nazwa>
@@ -36,6 +36,5 @@
     <kraj>USA</kraj>
     <cena>32zł</cena>
 </rodzaj>
-
 
 </platformy>
