@@ -1,0 +1,11 @@
+{
+    "nazwaPlatformy": "Netflix",
+    "iloscUzytkownikow (w mln)": 300,
+    "oplataZaSubskrybcje": 49.00,
+    "waluta": "PLN",
+    "znizkaDlaStudentow": false,
+    "najpopularniejszeSeriale": ["Wednesday", "Stranger Things", "Gambit Królowej"],
+    "Inne platformy streaimngowe": {
+        "nazwa": ["Disney+", "Prime Video", "HBO"]
+    }
+}
